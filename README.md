@@ -75,13 +75,17 @@ La consulta http es de tipo POST, por lo que al momento de hacer la consulta es 
 Los datos teben estar definidos tomando como ejemplo la imagen anterior.
 
 **Ejemplos de funcionamiento :**
+
 -Datos de entrada :
 
 ![entry_data](https://firebasestorage.googleapis.com/v0/b/portafolio-images.appspot.com/o/5.PNG?alt=media&token=f103e9c7-c0fc-4fe8-a832-61d08bcad2d9)
+
 -Respuesta :
+
 ![response](https://firebasestorage.googleapis.com/v0/b/portafolio-images.appspot.com/o/6.PNG?alt=media&token=1ca93967-ee3a-4b7c-a800-35e01f192c6f)
 
-Una vez desplegado el proyecto, también se puede acceder a la documentacion de la API en el siguiente enlace :        
+Una vez desplegado el proyecto, también se puede acceder a la documentacion de la API en el siguiente enlace :  
+
 http://localhost:8000/docs
 
 ## Entregables
