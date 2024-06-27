@@ -58,6 +58,7 @@ La API consta de 2 endpoints.
 ![welcome](https://firebasestorage.googleapis.com/v0/b/portafolio-images.appspot.com/o/4.PNG?alt=media&token=23fc2eca-78ba-434c-bebf-1c208c233653)
 
 **Ejemplos de funcionamiento :**
+
 ![welcome_example](https://firebasestorage.googleapis.com/v0/b/portafolio-images.appspot.com/o/7.PNG?alt=media&token=630e41f2-a10c-4750-8e81-4da7ad894bbb)
 
 
