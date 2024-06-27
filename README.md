@@ -5,7 +5,7 @@ Proyecto de backend desarrollado en Python con el framework [FastAPI](https://fa
 ## Ejecutar el proyecto
 Como **prerrequisito** es necesario tener instalado [Docker](https://docs.docker.com/engine/install/) en el sistema, la instalacion es bastante sencilla. Sin embargo aca hay un [link](https://www.youtube.com/watch?v=ZO4KWQfUBBc&ab_channel=FaztCode) por si llega a ser necesario.
 
-Si el proyecto se esta viendo desde el repositorio de github, es necesario primero hacer estos pasos, si ya se tiene los archivos en local,se puede comenzar desde el paso 3.
+Si el proyecto se esta viendo desde el repositorio de github, es necesario primero hacer estos pasos, si ya se encuentra en la carpeta raiz del proyecto,puede pasar directamente al paso 3.
 
 1- Clonar el repositorio :
 
@@ -14,6 +14,10 @@ Si el proyecto se esta viendo desde el repositorio de github, es necesario prime
 2- Ir a la carpeta raiz del proyecto:
 
     cd Prediction_API
+
+La carpeta del proyecto se debe ver asi :
+
+![root_proyect](https://firebasestorage.googleapis.com/v0/b/portafolio-images.appspot.com/o/raiz.PNG?alt=media&token=69a4d92d-b811-487e-af91-8f5f17ecaf57)
 
 3- Estando en la carpeta raiz del proyecto, primero es necesario crear la imagen de Docker a partir del Dockerfile:
     
