@@ -29,7 +29,7 @@ El nombre del contenedor en este caso es container_api, sin embargo tambien se p
 
 Siguiendo correctamente los pasos anteriormente dichos, la aplicación debe estar en funcionamiento.
 
-**Comando que pueden ser de ayuda :**
+**Comandos que pueden ser de ayuda :**
 
 -Listar las imagenes creadas:
 
